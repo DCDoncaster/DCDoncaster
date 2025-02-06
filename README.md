@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DCDoncaster
-- 👀 I’m interested in ...completing my journey as an Apprentice Software Engineer
-- 🌱 I’m currently learning ... Java, Gosu, and SQL
+- 👀 I’m interested in ...expanding my experienc as a Software Engineer
+- 🌱 I’m currently working ib ... Java, Gosu, and SQL
 
 
 <!---
